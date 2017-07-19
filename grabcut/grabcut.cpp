@@ -2,6 +2,7 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
 // 配置opencv
 // ctrl + f5 运行 
+// develop分支
 #include "stdafx.h"  
 
 #include "opencv2/highgui/highgui.hpp"  
